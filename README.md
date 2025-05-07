@@ -1,6 +1,6 @@
 
 
-````markdown
+##````markdown
 # 🔍 Gemini-Powered RAG Pipeline using LlamaIndex, ChromaDB & HuggingFace
 
 This project demonstrates a complete Retrieval-Augmented Generation (RAG) pipeline powered by **Google Gemini**, using **LlamaIndex** as the orchestration layer, **ChromaDB** for vector storage, and **HuggingFace embeddings** for dense semantic retrieval.
