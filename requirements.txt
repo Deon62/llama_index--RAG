@@ -1,0 +1,8 @@
+chromadb
+tqdm
+llama_index
+google-generativeai
+HuggingFaceEmbedding
+sentence_transformers
+generativeai
+llama-index
